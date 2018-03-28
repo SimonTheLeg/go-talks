@@ -1,0 +1,59 @@
+15th Frankfurt Rhein-Main Gophers
+Gophers Frankfurt Rhein-Main - April 10th 2018
+
+Anna-Katharina Wickert
+@akwickert
+
+Simon Bein
+@simontheleg
+
+* Agenda
+
+- 18:00 - 18:20 - Come-together 
+- 18:20 - 18:30 - Introduction round - Who are we?
+- 18:00 - 19:15 - Coding Dojo
+- 19:15 - 20:00 - Dojo Solutions
+
+Thanks @fastbillnews for hosting us today!
+
+
+* Come-together
+
+.image cometogether.jpeg _ 800
+
+* Introduction 
+
+.image introduction.jpg _ 800
+
+* One Year Anniversary 🎉
+
+Todays Meetup marks the one year anniversary for Rhein Main Gophers. 
+
+Looking forward to many more exciting years with this group!
+
+.image party-gopher.png _ 400
+
+* Coding Dojo
+
+*Procedure*
+1. Classify yourself as _beginner_ (green), _intermediate_ (yellow), or _expert_ (red) and grab a matching sticker
+2. You will have 1 hour and 15 minutes to complete as many of the three coding challenges as possible
+3. Afterwards we will do short presentations on possible solutions to each challenge
+
+*Notes*
+- You can solve the challenge on your own or in a small team
+- Please complete the challenges in the given order (regardless of your skill level 😉)
+- Some challenges are split into two parts. Please only consider the first part
+- You can verify your solution by using the included test data set
+- And most importantly: HAVE FUN!!!
+
+* Challenges
+
+*Challenge* *1* Permutation Promenade
+.link http://adventofcode.com/2017/day/16
+
+*Challenge* *2* Coprocessor Conflagration
+.link http://adventofcode.com/2017/day/23
+
+*Challenge* *3* Air Duct Spelunking
+.link https://adventofcode.com/2016/day/24
